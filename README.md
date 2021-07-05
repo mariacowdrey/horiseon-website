@@ -8,7 +8,7 @@ A website that offers marketing services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mariacowdrey.github.io/horiseon-website/
 
 ## Contribution
 Made with ❤️ by Maria Cowdrey
